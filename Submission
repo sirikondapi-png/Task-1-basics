@@ -1,13 +1,14 @@
 #!/usr/bin/env bash
 #Participant to enter their details here:
 
-name="name"
-Roll_no="*************"
-branch="*****"
-mail="*********"
-phone="*********"
-remarks="********"
+name=" Siri Kondapi"
+Roll_no="16010125112"
+branch="COMPS"
+mail="siri.kondapi@somaiya.edu"
+phone="8104140658"
+remarks="Since only 3 trys a day is allowed for VM in labex it's been done using multiple accounts."
 #enter anything you want to add
+Since only 3 trys a day is allowed for VM in labex it's been done using multiple accounts.
 
 echo $name " | " $Roll_no " | " $branch " | " $remarks
 echo $mail - $phone
